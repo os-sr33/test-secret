@@ -6,7 +6,7 @@ $aws_secret = "AKIA123456789012345678";
 $github_token = "ghp_abcdefghijklmnopqrstuvwxyz1234567890";
 
 // Dummy Slack webhook
-$slack_webhook = "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX";
+
 
 // Dummy private key
 $private_key = "
