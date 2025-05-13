@@ -16,7 +16,6 @@ MIIEpAIBAAKCAQEAwFAKEFAKEFAKEFAKEXXXXXXXXXXXXXX
 ";
 
 // Dummy password
-$db_password = "P@ssw0rd123!";
 
 // Dummy Google API Key
 $google_api_key = "AIzaSyA1234567890abcdefGHIJKLMNOPQRST";
